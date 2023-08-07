@@ -1,0 +1,10 @@
+.edit {
+    margin-right: 15px;
+}
+.edit > i {
+   color: #d9cd26;
+}
+
+.delete > i {
+    color: red;
+}
